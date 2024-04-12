@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"VCUtil.AttributeDefinition","h":"","u":""},{"l":"VCUtil.ChoiceDialog","h":"","u":""},{"l":"VCUtil.Excel_Export_Util","h":"","u":""},{"l":"VCUtil.Excel_Import_Util","h":"","u":""},{"l":"VCUtil.Excel_Export_Util.ExcelSheet","h":"","u":""},{"l":"VCUtil","h":"","u":""},{"l":"VCUtil.WriteInfoView","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]

@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"aquintos.ee.metric.temp.calc.B_Team_Dev.VCUtil","h":"","u":""},{"l":"所有程序包","h":"","u":"allpackages-index.html"}]
